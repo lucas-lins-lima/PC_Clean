@@ -1,0 +1,9 @@
+2025-06-27 17:26:05,153 - nlp_assistant - INFO - Sistema NLP inicializado
+2025-06-27 17:26:05,201 - nlp_assistant - INFO - Carregado: knowledge_base
+2025-06-27 17:26:05,241 - nlp_assistant - INFO - Carregado: intents
+2025-06-27 17:26:05,293 - nlp_assistant - INFO - Carregado: responses
+2025-06-27 17:26:05,369 - nlp_assistant - INFO - Processamento NLP concluído - Intent: default (confiança: 0.500)
+2025-06-27 17:26:05,407 - nlp_assistant - INFO - Processamento NLP concluído - Intent: default (confiança: 0.500)
+2025-06-27 17:26:05,475 - nlp_assistant - INFO - Processamento NLP concluído - Intent: default (confiança: 0.500)
+2025-06-27 17:26:05,482 - nlp_assistant - INFO - Processamento NLP concluído - Intent: default (confiança: 0.500)
+2025-06-27 17:26:05,505 - nlp_assistant - INFO - Processamento NLP concluído - Intent: default (confiança: 0.500)

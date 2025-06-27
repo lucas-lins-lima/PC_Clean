@@ -1,0 +1,178 @@
+{
+  "greeting": {
+    "patterns": [
+      "olá",
+      "oi",
+      "ola",
+      "hey",
+      "hello",
+      "hi",
+      "bom dia",
+      "boa tarde",
+      "boa noite",
+      "good morning",
+      "good afternoon",
+      "good evening",
+      "greetings"
+    ],
+    "context": "saudação inicial"
+  },
+  "help": {
+    "patterns": [
+      "ajuda",
+      "help",
+      "socorro",
+      "como",
+      "what",
+      "que",
+      "preciso",
+      "need",
+      "como usar",
+      "how to",
+      "tutorial",
+      "guia",
+      "guide",
+      "instructions"
+    ],
+    "context": "solicitação de ajuda"
+  },
+  "clean_request": {
+    "patterns": [
+      "limpar",
+      "limpeza",
+      "clean",
+      "cleanup",
+      "remover",
+      "remove",
+      "delete",
+      "apagar",
+      "temporary",
+      "temp",
+      "cache",
+      "lixo",
+      "trash",
+      "junk"
+    ],
+    "context": "solicitação de limpeza"
+  },
+  "performance": {
+    "patterns": [
+      "lento",
+      "slow",
+      "performance",
+      "velocidade",
+      "speed",
+      "otimizar",
+      "optimize",
+      "acelerar",
+      "faster",
+      "melhorar",
+      "improve",
+      "boost",
+      "turbo"
+    ],
+    "context": "problemas de performance"
+  },
+  "disk_space": {
+    "patterns": [
+      "espaço",
+      "space",
+      "disco",
+      "disk",
+      "storage",
+      "armazenamento",
+      "cheio",
+      "full",
+      "capacidade",
+      "capacity",
+      "memory",
+      "memoria"
+    ],
+    "context": "problemas de espaço em disco"
+  },
+  "malware": {
+    "patterns": [
+      "virus",
+      "malware",
+      "trojan",
+      "spyware",
+      "adware",
+      "infected",
+      "infectado",
+      "security",
+      "segurança",
+      "proteção",
+      "protection",
+      "scan",
+      "varredura"
+    ],
+    "context": "problemas de segurança"
+  },
+  "startup": {
+    "patterns": [
+      "inicialização",
+      "startup",
+      "boot",
+      "iniciar",
+      "start",
+      "liga",
+      "turn on",
+      "demora",
+      "slow boot",
+      "demorado"
+    ],
+    "context": "problemas de inicialização"
+  },
+  "plans": {
+    "patterns": [
+      "plano",
+      "plan",
+      "preço",
+      "price",
+      "custo",
+      "cost",
+      "gratis",
+      "free",
+      "pro",
+      "master",
+      "premium",
+      "upgrade",
+      "atualizar"
+    ],
+    "context": "informações sobre planos"
+  },
+  "satisfaction": {
+    "patterns": [
+      "obrigado",
+      "thanks",
+      "thank you",
+      "valeu",
+      "excelente",
+      "excellent",
+      "perfeito",
+      "perfect",
+      "ótimo",
+      "great",
+      "bom",
+      "good",
+      "ruim",
+      "bad"
+    ],
+    "context": "feedback do usuário"
+  },
+  "goodbye": {
+    "patterns": [
+      "tchau",
+      "bye",
+      "goodbye",
+      "até logo",
+      "see you",
+      "adeus",
+      "farewell",
+      "obrigado",
+      "thanks",
+      "valeu"
+    ],
+    "context": "despedida"
+  }
+}

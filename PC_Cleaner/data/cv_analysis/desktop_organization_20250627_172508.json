@@ -1,0 +1,93 @@
+{
+  "timestamp": "2025-06-27T17:25:08.179719",
+  "screen_resolution": "1366x768",
+  "clutter_score": 4.091019177436829,
+  "icon_analysis": {
+    "total_icons": 0
+  },
+  "window_analysis": {
+    "total_windows": 3,
+    "visible_windows": 2,
+    "minimized_windows": 1,
+    "overlapped_windows": 2,
+    "window_details": [
+      {
+        "position": [
+          0,
+          246
+        ],
+        "size": [
+          1366,
+          472
+        ],
+        "area": 110401,
+        "aspect_ratio": 2.8940677966101696
+      },
+      {
+        "position": [
+          1257,
+          90
+        ],
+        "size": [
+          37,
+          347
+        ],
+        "area": 8036,
+        "aspect_ratio": 0.10662824207492795
+      },
+      {
+        "position": [
+          363,
+          73
+        ],
+        "size": [
+          875,
+          279
+        ],
+        "area": 14897,
+        "aspect_ratio": 3.1362007168458783
+      }
+    ],
+    "screen_coverage": 0.12709515312347486
+  },
+  "color_scheme": {
+    "dominant_hue": 116,
+    "dominant_saturation": 66,
+    "dominant_value": 54,
+    "color_variance": [
+      646.2513985035165,
+      575.1176293696053,
+      3334.139314045473
+    ],
+    "average_saturation": 68.76854849164226,
+    "average_brightness": 73.20276849987799,
+    "color_scheme": "Baixa saturação",
+    "total_unique_colors": 7923
+  },
+  "spatial_organization": {
+    "quadrant_density": {
+      "top_left": {
+        "density": 1328.7116304479525,
+        "avg_brightness": 50.54147983772572
+      },
+      "top_right": {
+        "density": 762.348339509336,
+        "avg_brightness": 46.97527757442655
+      },
+      "bottom_left": {
+        "density": 4937.323453729333,
+        "avg_brightness": 73.78051030990727
+      },
+      "bottom_right": {
+        "density": 4189.437045226774,
+        "avg_brightness": 71.25426656295754
+      }
+    },
+    "symmetry_score": 92.73326728405695,
+    "layout_complexity": 34.55095887184143,
+    "balance_score": 0.0
+  },
+  "recommendations": [
+    "Desktop bem organizado - manter organização atual"
+  ]
+}

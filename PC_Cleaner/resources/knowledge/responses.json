@@ -1,0 +1,68 @@
+{
+  "greeting": [
+    "Olá! 👋 Eu sou a Clara, sua assistente do PC Cleaner. Como posso ajudá-lo hoje?",
+    "Oi! 😊 Sou a Clara e estou aqui para ajudar com qualquer dúvida sobre o PC Cleaner!",
+    "Hello! I'm Clara, your PC Cleaner assistant. How can I help you today?",
+    "Bom dia! Como posso tornar seu PC mais rápido e limpo hoje?"
+  ],
+  "help": [
+    "Posso ajudar você com:\n🧹 Limpeza do sistema\n⚡ Otimização de performance\n🛡️ Análise de segurança\n📊 Relatórios detalhados\n\nQue tipo de ajuda você precisa?",
+    "Aqui estão as principais funcionalidades:\n• Limpeza de arquivos temporários\n• Otimização de registro\n• Gerenciamento de inicialização\n• Análise de espaço em disco\n\nSobre o que gostaria de saber mais?",
+    "Estou aqui para ajudar! Você pode me perguntar sobre limpeza, otimização, problemas de performance, ou qualquer dúvida sobre o PC Cleaner."
+  ],
+  "clean_request": [
+    "Vou iniciar a limpeza do seu sistema! 🧹\n\nO PC Cleaner irá:\n✓ Remover arquivos temporários\n✓ Limpar cache dos navegadores\n✓ Otimizar registro\n✓ Analisar duplicatas\n\nDeseja continuar?",
+    "Perfeito! A limpeza inteligente do PC Cleaner pode liberar vários GB de espaço. Você gostaria de fazer uma limpeza completa ou específica?",
+    "Ótima escolha! Nossa IA irá analisar seu sistema e recomendar as melhores ações de limpeza. Iniciando análise..."
+  ],
+  "performance": [
+    "Para melhorar a performance do seu PC, recomendo:\n\n🚀 Otimização de inicialização\n💾 Limpeza de memória\n🔧 Correção de registro\n📈 Análise preditiva com IA\n\nQual problema específico você está enfrentando?",
+    "Problemas de lentidão são muito comuns! Nossa IA pode identificar os gargalos do seu sistema. Você notou lentidão em algum momento específico?",
+    "Vou executar uma análise completa de performance! O PC Cleaner usa machine learning para identificar e corrigir problemas automaticamente."
+  ],
+  "disk_space": [
+    "Problemas de espaço em disco? Posso ajudar! 💽\n\n📁 Análise de uso de disco\n🗑️ Remoção de arquivos duplicados\n📦 Limpeza de downloads antigos\n🧹 Cache e arquivos temporários\n\nVamos começar com uma análise?",
+    "O analisador inteligente do PC Cleaner pode mostrar exatamente onde seu espaço está sendo usado. Seria útil ver um relatório detalhado?",
+    "Liberação de espaço é nossa especialidade! Nossa IA encontra arquivos seguros para remover sem afetar o funcionamento do sistema."
+  ],
+  "malware": [
+    "Segurança é fundamental! 🛡️\n\nO PC Cleaner inclui:\n🔍 Scan inteligente de malware\n🚫 Detecção de ameaças\n🧹 Remoção segura\n📊 Relatório de segurança\n\nVamos fazer uma verificação completa?",
+    "Preocupações com segurança são válidas. Nossa tecnologia de IA detecta padrões suspeitos que antivírus tradicionais podem perder.",
+    "Vou executar uma varredura completa! O sistema usa análise comportamental para identificar ameaças avançadas."
+  ],
+  "startup": [
+    "Inicialização lenta é frustrante! 🐌➡️⚡\n\nPosso otimizar:\n⚙️ Programas de inicialização\n🔧 Serviços do sistema\n📁 Arquivos de boot\n🧠 Análise com IA\n\nQuer que eu analise sua inicialização?",
+    "O PC Cleaner pode reduzir significativamente o tempo de boot! Nossa IA identifica quais programas são realmente necessários na inicialização.",
+    "Problemas de inicialização podem ter várias causas. Vou executar um diagnóstico completo para identificar os gargalos."
+  ],
+  "plans": [
+    "Temos três planos para você:\n\n🆓 **Gratuito**: Limpeza básica\n⚡ **Pro**: IA básica + funcionalidades avançadas\n👑 **Master Plus**: IA completa + todas as funcionalidades\n\nQual se adequa melhor às suas necessidades?",
+    "Nossos planos são flexíveis:\n• Gratuito: Perfeito para uso básico\n• Pro: Ideal para usuários avançados\n• Master Plus: Máxima performance com IA\n\nPosso explicar os detalhes de algum específico?",
+    "Cada plano oferece valor único! O que é mais importante para você: economia, funcionalidades avançadas ou máxima performance?"
+  ],
+  "satisfaction": [
+    "Fico feliz em ajudar! 😊 Se tiver mais dúvidas, estarei sempre aqui. Sua experiência é muito importante para nós!",
+    "Que bom que consegui ajudar! 🌟 Não hesite em me procurar sempre que precisar. Estou aqui 24/7!",
+    "Obrigada pelo feedback! Sua opinião nos ajuda a melhorar constantemente. Há algo mais em que posso ajudar?"
+  ],
+  "goodbye": [
+    "Até logo! 👋 Foi um prazer ajudar. Lembre-se: estou sempre aqui quando precisar!",
+    "Tchau! 😊 Espero ter ajudado. Volte sempre que tiver dúvidas sobre o PC Cleaner!",
+    "Goodbye! Thanks for using PC Cleaner. Have a great day! 🌟"
+  ],
+  "default": [
+    "Interessante pergunta! 🤔 Pode reformular ou ser mais específico? Estou aqui para ajudar com qualquer dúvida sobre o PC Cleaner.",
+    "Não tenho certeza se entendi completamente. Você poderia explicar de outra forma? Quero garantir que vou ajudar da melhor maneira!",
+    "Hmm, essa é nova para mim! 😅 Você poderia dar mais detalhes? Ou talvez perguntar sobre limpeza, otimização ou funcionalidades do PC Cleaner?"
+  ],
+  "command_clean": [
+    "🚀 Iniciando limpeza inteligente...\n\n✓ Analisando sistema\n✓ Identificando arquivos desnecessários\n✓ Calculando espaço a ser liberado\n\nAguarde enquanto otimizo seu PC!",
+    "Comando de limpeza recebido! Executando análise preditiva para maximizar os resultados...",
+    "Limpeza iniciada com IA! O sistema está aprendendo os padrões do seu uso para uma limpeza mais eficiente."
+  ],
+  "command_scan": [
+    "🔍 Iniciando varredura completa...\n\n📊 Analisando performance\n🛡️ Verificando segurança\n💾 Checando integridade\n🧠 Aplicando machine learning\n\nResultados em breve!",
+    "Scan inteligente em andamento! Nossa IA está analisando milhares de arquivos e configurações...",
+    "Varredura avançada iniciada! Usando computer vision e análise comportamental para detecção completa."
+  ]
+}

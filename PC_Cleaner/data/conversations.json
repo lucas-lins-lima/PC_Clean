@@ -1,0 +1,107 @@
+{
+  "conversations": [
+    {
+      "timestamp": "2025-06-27T17:26:05.365179",
+      "user_id": "test_user",
+      "user_input": "Olá, preciso de ajuda",
+      "cleaned_input": "ola preciso de ajuda",
+      "detected_language": "pt",
+      "intent": "default",
+      "confidence": 0.5,
+      "sentiment": "neutral",
+      "entities": [],
+      "response": "Hmm, essa é nova para mim! 😅 Você poderia dar mais detalhes? Ou talvez perguntar sobre limpeza, otimização ou funcionalidades do PC Cleaner?",
+      "processing_time": 0.005,
+      "context": {}
+    },
+    {
+      "timestamp": "2025-06-27T17:26:05.405258",
+      "user_id": "test_user",
+      "user_input": "Meu PC está muito lento",
+      "cleaned_input": "meu pc esta muito lento",
+      "detected_language": "pt",
+      "intent": "default",
+      "confidence": 0.5,
+      "sentiment": "neutral",
+      "entities": [],
+      "response": "Não tenho certeza se entendi completamente. Você poderia explicar de outra forma? Quero garantir que vou ajudar da melhor maneira!",
+      "processing_time": 0.0,
+      "context": {}
+    },
+    {
+      "timestamp": "2025-06-27T17:26:05.465880",
+      "user_id": "test_user",
+      "user_input": "Como posso limpar arquivos temporários?",
+      "cleaned_input": "como posso limpar arquivos temporarios",
+      "detected_language": "pt",
+      "intent": "default",
+      "confidence": 0.5,
+      "sentiment": "neutral",
+      "entities": [],
+      "response": "Hmm, essa é nova para mim! 😅 Você poderia dar mais detalhes? Ou talvez perguntar sobre limpeza, otimização ou funcionalidades do PC Cleaner?",
+      "processing_time": 0.0,
+      "context": {}
+    },
+    {
+      "timestamp": "2025-06-27T17:26:05.480417",
+      "user_id": "test_user",
+      "user_input": "Qual plano vocês recomendam?",
+      "cleaned_input": "qual plano voces recomendam",
+      "detected_language": "pt",
+      "intent": "default",
+      "confidence": 0.5,
+      "sentiment": "neutral",
+      "entities": [],
+      "response": "Interessante pergunta! 🤔 Pode reformular ou ser mais específico? Estou aqui para ajudar com qualquer dúvida sobre o PC Cleaner.",
+      "processing_time": 0.0,
+      "context": {}
+    },
+    {
+      "timestamp": "2025-06-27T17:26:05.498383",
+      "user_id": "test_user",
+      "user_input": "Obrigado pela ajuda!",
+      "cleaned_input": "obrigado pela ajuda",
+      "detected_language": "pt",
+      "intent": "default",
+      "confidence": 0.5,
+      "sentiment": "neutral",
+      "entities": [],
+      "response": "Não tenho certeza se entendi completamente. Você poderia explicar de outra forma? Quero garantir que vou ajudar da melhor maneira!",
+      "processing_time": 0.0,
+      "context": {}
+    }
+  ],
+  "stats": {
+    "total_interactions": 4,
+    "successful_responses": 0,
+    "failed_responses": 4,
+    "average_response_time": 0.00125,
+    "most_common_intents": {
+      "default": 4
+    },
+    "user_satisfaction_scores": [],
+    "language_usage": {
+      "pt": 4,
+      "en": 0
+    }
+  },
+  "user_profiles": {
+    "test_user": {
+      "first_interaction": "2025-06-27T17:26:05.365179",
+      "total_interactions": 4,
+      "preferred_language": "pt",
+      "common_intents": {
+        "default": 4
+      },
+      "sentiment_history": [
+        "neutral",
+        "neutral",
+        "neutral",
+        "neutral"
+      ],
+      "satisfaction_scores": [],
+      "last_interaction": "2025-06-27T17:26:05.480417"
+    }
+  },
+  "last_updated": "2025-06-27T17:26:05.498383"
+}

@@ -1,0 +1,2 @@
+2025-06-27 17:18:39,688 - main - ERROR - Erro ao importar módulos: cannot import name 'get_real_system_info' from 'utils.common_functions' (C:\Users\lucas\OneDrive\Documentos\Script\PC_Cleaner\utils\common_functions.py)
+2025-06-27 17:20:45,104 - main - ERROR - Erro ao importar módulos: cannot import name 'get_real_system_info' from 'utils.common_functions' (c:\Users\lucas\OneDrive\Documentos\Script\PC_Cleaner\utils\common_functions.py)

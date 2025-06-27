@@ -1,0 +1,47 @@
+{
+  "pc_cleaner": {
+    "description": "PC Cleaner é um software avançado de limpeza e otimização de computadores",
+    "features": [
+      "Limpeza de arquivos temporários",
+      "Otimização de registro",
+      "Gerenciamento de programas de inicialização",
+      "Análise de disco",
+      "Detecção de malware",
+      "Inteligência artificial para predição de performance"
+    ],
+    "plans": {
+      "free": "Funcionalidades básicas de limpeza",
+      "pro": "Funcionalidades avançadas + IA básica",
+      "master_plus": "Todas as funcionalidades + IA avançada"
+    }
+  },
+  "troubleshooting": {
+    "slow_computer": [
+      "Execute limpeza de arquivos temporários",
+      "Desabilite programas de inicialização desnecessários",
+      "Execute desfragmentação do disco",
+      "Verifique uso de memória RAM",
+      "Faça scan de malware"
+    ],
+    "disk_space": [
+      "Use o analisador de espaço em disco",
+      "Remova arquivos duplicados",
+      "Limpe cache dos navegadores",
+      "Desinstale programas não utilizados",
+      "Use compressão de arquivos"
+    ],
+    "startup_issues": [
+      "Verifique programas de inicialização",
+      "Execute limpeza do registro",
+      "Verifique integridade dos arquivos do sistema",
+      "Desabilite serviços desnecessários"
+    ]
+  },
+  "commands": {
+    "clean": "Inicia processo de limpeza do sistema",
+    "scan": "Executa varredura completa do sistema",
+    "optimize": "Otimiza configurações do sistema",
+    "report": "Gera relatório de análise",
+    "help": "Mostra ajuda e comandos disponíveis"
+  }
+}

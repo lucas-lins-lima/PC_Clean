@@ -1,0 +1,117 @@
+{
+  "timestamp": "2025-06-27T17:23:42.116416",
+  "screen_resolution": "1366x768",
+  "clutter_score": 4.4910263299942015,
+  "icon_analysis": {
+    "total_icons": 0
+  },
+  "window_analysis": {
+    "total_windows": 5,
+    "visible_windows": 2,
+    "minimized_windows": 3,
+    "overlapped_windows": 4,
+    "window_details": [
+      {
+        "position": [
+          368,
+          532
+        ],
+        "size": [
+          716,
+          11
+        ],
+        "area": 5057,
+        "aspect_ratio": 65.0909090909091
+      },
+      {
+        "position": [
+          368,
+          497
+        ],
+        "size": [
+          716,
+          12
+        ],
+        "area": 5709,
+        "aspect_ratio": 59.666666666666664
+      },
+      {
+        "position": [
+          0,
+          246
+        ],
+        "size": [
+          1366,
+          471
+        ],
+        "area": 15405,
+        "aspect_ratio": 2.900212314225053
+      },
+      {
+        "position": [
+          1253,
+          90
+        ],
+        "size": [
+          41,
+          347
+        ],
+        "area": 8619,
+        "aspect_ratio": 0.11815561959654179
+      },
+      {
+        "position": [
+          388,
+          73
+        ],
+        "size": [
+          850,
+          279
+        ],
+        "area": 11743,
+        "aspect_ratio": 3.046594982078853
+      }
+    ],
+    "screen_coverage": 0.0443556689238653
+  },
+  "color_scheme": {
+    "dominant_hue": 116,
+    "dominant_saturation": 66,
+    "dominant_value": 54,
+    "color_variance": [
+      629.2382000906318,
+      568.0075216006021,
+      3322.8959154752292
+    ],
+    "average_saturation": 68.27343559358224,
+    "average_brightness": 73.19183424078818,
+    "color_scheme": "Baixa saturação",
+    "total_unique_colors": 8073
+  },
+  "spatial_organization": {
+    "quadrant_density": {
+      "top_left": {
+        "density": 1330.968419541097,
+        "avg_brightness": 50.571974896290875
+      },
+      "top_right": {
+        "density": 839.2698864217094,
+        "avg_brightness": 47.675546760614935
+      },
+      "bottom_left": {
+        "density": 4940.715922421673,
+        "avg_brightness": 73.6398509943875
+      },
+      "bottom_right": {
+        "density": 4115.3168008775465,
+        "avg_brightness": 70.37496949731576
+      }
+    },
+    "symmetry_score": 92.62690811235834,
+    "layout_complexity": 34.55131649971008,
+    "balance_score": 0.0
+  },
+  "recommendations": [
+    "Muitas janelas sobrepostas - organize as janelas abertas"
+  ]
+}

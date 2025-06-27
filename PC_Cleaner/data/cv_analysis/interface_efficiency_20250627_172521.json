@@ -1,0 +1,42 @@
+{
+  "accessibility_score": 30.521473501105053,
+  "interface_complexity": 34.55095887184143,
+  "layout_analysis": {
+    "quadrant_density": {
+      "top_left": {
+        "density": 1328.7116304479525,
+        "avg_brightness": 50.54147983772572
+      },
+      "top_right": {
+        "density": 762.348339509336,
+        "avg_brightness": 46.97527757442655
+      },
+      "bottom_left": {
+        "density": 4937.323453729333,
+        "avg_brightness": 73.78051030990727
+      },
+      "bottom_right": {
+        "density": 4189.437045226774,
+        "avg_brightness": 71.25426656295754
+      }
+    },
+    "symmetry_score": 92.73326728405695,
+    "layout_complexity": 34.55095887184143,
+    "balance_score": 0.0
+  },
+  "usability_metrics": {
+    "contrast_level": 54.29516752277877,
+    "information_density": 7.53406768545632,
+    "color_variance": [
+      646.2513985035165,
+      575.1176293696053,
+      3334.139314045473
+    ],
+    "distinct_regions": 8,
+    "edge_density": 0.07534067685456321
+  },
+  "optimization_suggestions": [
+    "Melhorar contraste entre elementos para acessibilidade"
+  ],
+  "analysis_timestamp": "2025-06-27T17:25:21.411948"
+}

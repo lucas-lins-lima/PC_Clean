@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-06-27T17:23:04.307875",
+  "anomalies": {
+    "system_anomalies": [
+      {
+        "type": "high_memory_usage",
+        "severity": "high",
+        "value": 96.3,
+        "threshold": 85.0,
+        "description": "Uso de memória muito alto: 96.3%",
+        "timestamp": "2025-06-27T17:22:52.662739"
+      }
+    ],
+    "process_anomalies": [],
+    "network_anomalies": [],
+    "performance_anomalies": [
+      {
+        "type": "high_swap_usage",
+        "severity": "medium",
+        "value": 60.2,
+        "description": "Alto uso de swap: 60.2%",
+        "timestamp": "2025-06-27T17:22:52.662739"
+      }
+    ],
+    "security_anomalies": []
+  },
+  "total_anomalies": 2,
+  "severity_levels": {
+    "low": 0,
+    "medium": 1,
+    "high": 1,
+    "critical": 0
+  }
+}

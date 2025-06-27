@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-06-27T17:25:21.885023",
+  "problems_detected": {
+    "error_dialogs": [],
+    "suspicious_windows": [
+      {
+        "type": "tiny_window",
+        "position": [
+          1233,
+          480
+        ],
+        "size": [
+          133,
+          218
+        ],
+        "description": "Janela anormalmente pequena"
+      }
+    ],
+    "visual_anomalies": [],
+    "performance_indicators": [
+      {
+        "type": "loading_indicators",
+        "description": "127 possíveis indicadores de carregamento detectados",
+        "severity": "low"
+      }
+    ]
+  },
+  "total_issues": 2
+}

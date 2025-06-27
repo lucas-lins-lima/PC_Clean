@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-06-27T17:23:42.116416",
+    "type": "desktop_organization",
+    "file": "desktop_organization_20250627_172342.json",
+    "summary": "Clutter: 4.5, Ícones: 0"
+  },
+  {
+    "timestamp": "2025-06-27T17:23:51.495072",
+    "type": "interface_efficiency",
+    "file": "interface_efficiency_20250627_172351.json",
+    "summary": "Acessibilidade: 34.3, Complexidade: 34.6"
+  },
+  {
+    "timestamp": "2025-06-27T17:23:52.391302",
+    "type": "visual_problems",
+    "file": "visual_problems_20250627_172352.json",
+    "summary": "Problemas detectados: 2"
+  },
+  {
+    "timestamp": "2025-06-27T17:25:08.179719",
+    "type": "desktop_organization",
+    "file": "desktop_organization_20250627_172508.json",
+    "summary": "Clutter: 4.1, Ícones: 0"
+  },
+  {
+    "timestamp": "2025-06-27T17:25:21.413738",
+    "type": "interface_efficiency",
+    "file": "interface_efficiency_20250627_172521.json",
+    "summary": "Acessibilidade: 30.5, Complexidade: 34.6"
+  },
+  {
+    "timestamp": "2025-06-27T17:25:21.885023",
+    "type": "visual_problems",
+    "file": "visual_problems_20250627_172521.json",
+    "summary": "Problemas detectados: 2"
+  }
+]
